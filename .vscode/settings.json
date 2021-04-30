@@ -1,0 +1,5 @@
+{
+    "editor.minimap.enabled": false,
+    "files.trimTrailingWhitespace": true,
+    "python.pythonPath": "venv/bin/python3.8"
+}
