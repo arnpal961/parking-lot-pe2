@@ -1,7 +1,7 @@
 # parking-lot-pe2
 
 ## Using this repository
-
+    # python 3.8.x must be installed on the system
     git clone  git@github.com:arnpal961/parking-lot-pe2.git
     cd parking-lot-pe2
     python3.8 -m venv venv
