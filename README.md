@@ -14,7 +14,7 @@
 
     # activate the virtual environment
     pip install -r requirements.txt
-    pytest tests/tests_parking.py
+    pytest
 
 ## Giving Input
 
